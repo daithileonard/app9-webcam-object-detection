@@ -3,9 +3,9 @@ from email.message import EmailMessage
 import imghdr
 # import Pillow as pil
 
-PASSWORD = "triptahziifbnxgn"
-SENDER = "daithileonard@gmail.com"
-RECEIVER = "daithileonard@gmail.com"
+PASSWORD = "YOURAPPPASSWORD"
+SENDER = "EMAIL@EMAIL.COM"
+RECEIVER = "EMAIL@EMAIL.COM"
 
 
 def send_email(image_path):
